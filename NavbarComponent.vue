@@ -47,9 +47,4 @@ nav{
   border: 2px solid lightgray;
   backdrop-filter: blur(15px);
 }
-@media (max-width: 768px) {
-  .divNavbar{
-    display:none;
-  }
-}
 </style>
