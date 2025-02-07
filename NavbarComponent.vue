@@ -23,8 +23,8 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#proyects">
-                <i class="bi bi-code-slash" data-bs-toggle="tooltip" data-bs-placement="top" title="proyects"></i>
+              <a class="nav-link" href="#projects">
+                <i class="bi bi-code-slash" data-bs-toggle="tooltip" data-bs-placement="top" title="projects"></i>
               </a>
             </li>
             <li class="nav-item">
