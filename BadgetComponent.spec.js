@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { mount } from '@vue/test-utils';
-import BadgetComponent from '@/components/BadgetComponent.vue'; // Ajusta la ruta según tu estructura de archivos
+import BadgetComponent from '@/components/BadgetComponent.vue'; 
 
 describe('BadgetComponent.vue', () => {
   it('renderiza correctamente los badges pasados como props', () => {
