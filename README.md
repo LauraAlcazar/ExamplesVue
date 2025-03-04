@@ -16,7 +16,9 @@
   
   `import BadgetComponent from '../components/BadgetComponent.vue';`
 
-  **Unit Test** **BardgetComponent.spec.js**
+  **Unit Test** 
+  
+  **BardgetComponent.spec.js**
   
 ***
 
