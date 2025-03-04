@@ -1,7 +1,7 @@
 # ExamplesVue
-Little Vue components 
+### Little Vue components 
 
-**BadgetComponent.vue**
+  ### [BadgetComponent.vue]
 
   Dynamic component for creating badges using an array of strings, made in Vue3 and boostrap5.
   
@@ -12,10 +12,10 @@ Little Vue components
   <BadgetComponent :array-badgets="arrayBadgets" />
   import BadgetComponent from '../components/BadgetComponent.vue';
 
-
+  [Unit Test][BardgetComponent.spec.js]
   
 
-**NavbarComponent.vue**
+  ### [NavbarComponent.vue]
 
   Component mini navbar centered in view for a profile, made in Vue3 and boostrap5.
   
