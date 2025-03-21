@@ -63,7 +63,7 @@
   
   **Usage**: 
   
-  0.Instalation: npm install leaflet vue-left
+  0. Instalation: npm install leaflet vue-left
   
   1. Add component in folder components
   
