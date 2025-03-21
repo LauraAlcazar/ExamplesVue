@@ -168,7 +168,7 @@
       }
     };
   onBeforeUnmount(() => {
-      document.removeEventListener('keydown', handleKeydown); // Cleanup listener
+      document.removeEventListener('keydown', handleKeydown); // Limpiar el listener
   });
 
 </script>
