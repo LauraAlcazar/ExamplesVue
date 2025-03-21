@@ -36,3 +36,19 @@
   `<NavbarComponent/>`
   
   `import BadgetComponent from '../components/NavbarComponent.vue';`
+
+  
+  ### **ContactFromModal.vue**
+  
+
+  Contact form inside a modal, made in Vue3 and boostrap5.
+  
+  **Usage**: 
+  
+  1. Add component in folder components
+  
+  2. In the view add the component:
+  
+  `<ContactFromModal/>`
+  
+  `import ContactFromModal from '../components/ContactFromModal.vue';`
