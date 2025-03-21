@@ -56,7 +56,7 @@
 
   ***
 
-    ### **MapView.vue**
+  ### **MapView.vue**
   
 
   Component for show a map with leaflet in vue3.
